@@ -149,7 +149,7 @@
     <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.1.1.min.map" />
     <Content Include="Views\Main\Start.cshtml" />
-    <Content Include="Views\Main\Fist.cshtml" />
+    <Content Include="Views\Main\First.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

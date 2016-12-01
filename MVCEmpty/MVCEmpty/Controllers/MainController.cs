@@ -13,7 +13,7 @@ namespace MVCEmpty.Controllers
             return View();
         }
 
-        public ActionResult Fist()
+        public ActionResult First()
         {
             return View();
         }
